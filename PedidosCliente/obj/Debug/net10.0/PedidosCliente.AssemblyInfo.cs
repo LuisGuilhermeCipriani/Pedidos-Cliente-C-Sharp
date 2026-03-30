@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidosCliente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3829b50e8336aa70ad879317e32d87f89566e4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90635339d5b22b2c8c02e28f603d3fad184aee08")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidosCliente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidosCliente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
