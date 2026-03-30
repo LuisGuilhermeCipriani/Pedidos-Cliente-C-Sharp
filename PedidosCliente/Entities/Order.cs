@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using PedidosCliente.Entities;
+using PedidosCliente.Entities.Enums;
 
 namespace PedidosCliente.Entities
 {
@@ -34,7 +35,12 @@ namespace PedidosCliente.Entities
 
         public double Total()
         {
-
+            double total = 0.0;
+            foreach(OrderItem item in Items)
+            {
+                total += item.SubTotal();
+            }
+            return total;
         }
     }
 }
