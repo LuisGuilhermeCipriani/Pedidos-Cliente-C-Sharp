@@ -1,0 +1,15 @@
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\bin\Debug\net10.0\PedidosCliente.exe
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\bin\Debug\net10.0\PedidosCliente.deps.json
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\bin\Debug\net10.0\PedidosCliente.runtimeconfig.json
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\bin\Debug\net10.0\PedidosCliente.dll
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\bin\Debug\net10.0\PedidosCliente.pdb
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.AssemblyInfoInputs.cache
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.AssemblyInfo.cs
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.csproj.CoreCompileInputs.cache
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.sourcelink.json
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.dll
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\refint\PedidosCliente.dll
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.pdb
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\PedidosCliente.genruntimeconfig.cache
+D:\Documentos\Programação\C#\Seção 8\ExercicioFixacao\PedidosCliente\PedidosCliente\obj\Debug\net10.0\ref\PedidosCliente.dll

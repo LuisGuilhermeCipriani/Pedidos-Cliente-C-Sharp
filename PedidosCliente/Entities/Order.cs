@@ -17,9 +17,9 @@ namespace PedidosCliente.Entities
         public Order()
         {}
 
-        public Order(DateTime Moment, OrderStatus status, Client client)
+        public Order(DateTime moment, OrderStatus status, Client client)
         {
-            Moment = Moment;
+            Moment = moment;
             Status = status;
             Client = client;
         }
